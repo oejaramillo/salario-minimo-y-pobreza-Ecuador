@@ -1,0 +1,9 @@
+Time			Account	Session	Message
+01/10/03 10:30:49	josemo		Logged on
+01/10/03 10:30:50	josemo		Instantiated package DataEditorPkg
+01/10/03 10:30:50	josemo		Instantiated package DACManagerPkg
+01/10/03 10:30:50	josemo		Instantiated package SpsswPackage
+01/10/03 10:30:52	josemo		Instantiated package SaveFileDACPkg
+01/10/03 11:00:49	josemo		Checking for zombie process in D:\Temp.
+01/10/03 11:30:49	josemo		Checking for zombie process in D:\Temp.
+01/10/03 11:44:12	josemo		Session terminated.
